@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/KANG77556/PhoneDealFinder-APK/releases/download/v0.10.4/PhoneDealFinder-v0.10.4.apk","versionCode":22,"versionName":"0.10.4","notes":"Fix broken Korean text in plan registration, buttons and search labels."}
+{"apkUrl":"https://github.com/KANG77556/PhoneDealFinder-APK/releases/download/v0.10.4/PhoneDealFinder-v0.10.4-fixed.apk","versionCode":22,"versionName":"0.10.4","notes":"Correctly signed v0.10.4 with Korean button label fixes and data-preserving upgrade compatibility."}
