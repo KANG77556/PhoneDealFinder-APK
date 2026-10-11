@@ -1,1 +1,54 @@
-{"deals":[],"updatedAt":null}
+{
+    "deals":  [
+                  {
+                      "id":  "moyo-20261011-a-smart-20gb",
+                      "provider":  "A모바일",
+                      "network":  "SKT LTE",
+                      "title":  "A 스마트 20GB/100분",
+                      "promotionalPrice":  10,
+                      "regularPrice":  23100,
+                      "promotionalMonths":  7,
+                      "dataGb":  20,
+                      "url":  "https://www.moyoplan.com/plans/38062",
+                      "source":  "moyo-public-listing",
+                      "verifiedAt":  "2026-10-11T04:50:03Z",
+                      "endsAt":  "",
+                      "simFee":  0,
+                      "activationFee":  0
+                  },
+                  {
+                      "id":  "moyo-20261011-ize-6gb",
+                      "provider":  "아이즈모바일",
+                      "network":  "SKT LTE",
+                      "title":  "아이즈우정(300분/6G)",
+                      "promotionalPrice":  10,
+                      "regularPrice":  8000,
+                      "promotionalMonths":  12,
+                      "dataGb":  6,
+                      "url":  "https://www.moyoplan.com/plans/38249",
+                      "source":  "moyo-public-listing",
+                      "verifiedAt":  "2026-10-11T04:50:03Z",
+                      "endsAt":  "",
+                      "simFee":  0,
+                      "activationFee":  0
+                  },
+                  {
+                      "id":  "moyo-20261011-ize-5g150",
+                      "provider":  "아이즈모바일",
+                      "network":  "LG U+ 5G",
+                      "title":  "[L] 5G 아이즈150GB+",
+                      "promotionalPrice":  8100,
+                      "regularPrice":  62700,
+                      "promotionalMonths":  7,
+                      "dataGb":  150,
+                      "url":  "https://www.moyoplan.com/plans?filters.mno.0=LGU",
+                      "source":  "moyo-public-listing",
+                      "verifiedAt":  "2026-10-11T04:50:03Z",
+                      "endsAt":  "",
+                      "simFee":  0,
+                      "activationFee":  0
+                  }
+              ],
+    "updatedAt":  "2026-10-11T04:50:03Z",
+    "notice":  "Comparison reference snapshot only. Prices and discounts may change. SIM and activation fees unverified, excluded from estimates. Confirm terms and eligibility at the seller before applying."
+}
